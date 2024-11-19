@@ -11,11 +11,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# Dataset files
-*.csv
-*.tsv
-*.xlsx
-*.json
 
 # OS-specific
 .DS_Store

@@ -1,0 +1,25 @@
+# Python-related
+*.pyc
+__pycache__/
+*.pkl
+*.h5
+
+# Virtual environments
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Dataset files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# OS-specific
+.DS_Store
+
+# IDE-specific
+.vscode/
+.idea/
